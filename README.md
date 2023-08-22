@@ -44,6 +44,8 @@ Fig 3. The Query
 Fig 4. PT. Sejahtera Bersama Sales Performance Dashboard
 </p>
 
+[Check the interactive dashboard here:](https://lookerstudio.google.com/reporting/c238a812-74d5-4904-b050-602dc0bb8161)
+
 ## 5. Gather insights and recommendation from the analysis and visualization.
 
 1. Total Sales and Order Quantity in 2021 is lower than 2020. The sales team have to set a higher target for a year ahead.
