@@ -39,12 +39,12 @@ Fig 3. The Query
 </p>
 
 ## 4. Sales Performance Dashboard
+[Check the interactive dashboard here](https://lookerstudio.google.com/reporting/c238a812-74d5-4904-b050-602dc0bb8161)
+
 <p align="center">
   <img src= "https://github.com/jedijm/VIX-Bank_Muamalat/blob/main/asset/dashboard.png"> <br>
 Fig 4. PT. Sejahtera Bersama Sales Performance Dashboard
 </p>
-
-[Check the interactive dashboard here:](https://lookerstudio.google.com/reporting/c238a812-74d5-4904-b050-602dc0bb8161)
 
 ## 5. Gather insights and recommendation from the analysis and visualization.
 
