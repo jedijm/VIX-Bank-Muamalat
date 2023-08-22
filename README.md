@@ -50,6 +50,6 @@ Fig 4. PT. Sejahtera Bersama Sales Performance Dashboard
 2. Robots contributes the highest total sales due to its high price while the lowest is Blueprints. Robots product has potential to boost company’s revenue. Marketing division has to optimize the sales of robots and also increase other products.
 3.eBooks dominates the order quantity meanwhile Robot Kits is the least.
 4. Monthly sales and order quantity varies through the year and do not strongly affected by the season.
-5.Most of the products experience a decrease in sales from 2020 to 2021 except for drones. Sales of Robots has to be the top focus of the team due to its high contribution to the revenue. 
+5. Most of the products experience a decrease in sales from 2020 to 2021 except for drones. Sales of Robots has to be the top focus of the team due to its high contribution to the revenue. 
 6. Washington is the highest city in Sales and Order Quantity, followed by Houston. The sales team is suggested to focus in these two cities to increase sales performance. In reverse, Philadelphia is the least city in both Sales and Order Quantity. Sales Division is suggested to analyze customer behaviour in Philadelphia and build strategy to boost the sales performance.
 
